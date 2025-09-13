@@ -19,7 +19,7 @@
 </div>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mehra18_)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/abhishek-singh-mehra-)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@abhishekmehra246)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:12345abhishekmehra@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mehra18_)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-singh-mehra-)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@abhishekmehra246)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:12345abhishekmehra@gmail.com)
 
 
 # 💻 Tech Stack:
